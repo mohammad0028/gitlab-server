@@ -1,0 +1,4 @@
+PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+
+06 16 * * * /backup.sh
